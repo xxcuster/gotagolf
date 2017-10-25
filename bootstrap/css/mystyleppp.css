@@ -1,0 +1,31 @@
+h1	{color:#034f84;font-size: 115px;background-color: #f7786b}
+
+h2  {color:#034f84;font-size: 35px}
+
+hr {
+	border-top: 5px double #034f84;
+
+}
+
+a {
+	font-family: Verdana, sans-serif;
+	text-decoration : none;
+	font-size:60px;
+}
+
+a:link {
+color: #f7786b;
+
+}
+
+a:visited {
+color: #f7cac9;
+}
+
+a:hover {
+	color: #034f84
+	font-weight:bold;
+	font-size:50px;
+}
+
+dt  {color:#034f84;font-size: 35px}
