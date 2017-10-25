@@ -1,3 +1,3 @@
 # gotagolf
-
-Website for school
+<<<<<< readme-edits
+for school
